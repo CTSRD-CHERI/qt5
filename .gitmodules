@@ -73,7 +73,7 @@
 	depends = qtbase
 	recommends = qtdeclarative qtlocation qtmultimedia qtsensors qtwebchannel qtxmlpatterns
 	path = qtwebkit
-	url = ../../qt/qtwebkit.git
+	url = ../qtwebkit.git
 	branch = 5.9
 	status = obsolete
 	project = WebKit.pro
